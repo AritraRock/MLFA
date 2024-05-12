@@ -1,0 +1,17 @@
+OrderID,Product,Quantity,Price,Date
+1,Product_A,10,20,01-01-2023
+2,Product_B,5,15,02-01-2023
+3,Product_A,8,20,03-01-2023
+4,Product_C,12,25,05-01-2023
+5,Product_B,6,15,01-02-2023
+6,Product_A,15,20,02-02-2023
+7,Product_C,10,25,03-02-2023
+8,Product_A,7,,01-03-2023
+9,Product_B,4,15,02-03-2023
+10,Product_C,14,25,03-03-2023
+11,Product_A,12,20,01-04-2023
+12,Product_B,8,,02-04-2023
+13,Product_C,18,25,03-04-2023
+14,Product_A,9,20,01-05-2023
+15,Product_B,3,15,02-05-2023
+16,Product_C,20,25,03-05-2023
